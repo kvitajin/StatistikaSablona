@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0c68125-c6af-4191-b71f-ba20fa231e44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../du31p/du3p.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../du31p/du3p.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du31p/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../du31p/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du31p/main.rmd" beforeDir="false" afterPath="$PROJECT_DIR$/../du31p/main.rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skripty/skript_4_rozdeleni_DNV_vychytavky.R" beforeDir="false" afterPath="$PROJECT_DIR$/../skripty/skript_4_rozdeleni_DNV_vychytavky.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skripty/skript_6_EDA_Rozsireny.R" beforeDir="false" afterPath="$PROJECT_DIR$/../skripty/skript_6_EDA_Rozsireny.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.PS_DU1S_4S_zadani_2022.docx#" beforeDir="false" afterPath="$PROJECT_DIR$/.~lock.PS_DU1S_4S_zadani_2022.docx#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.rmd" beforeDir="false" afterPath="$PROJECT_DIR$/main.rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stat.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stat.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="277H6Das3MR8JmqtsHBipgY2frI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0c68125-c6af-4191-b71f-ba20fa231e44" name="Changes" comment="" />
+      <created>1648664029367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648664029367</updated>
+      <workItem from="1648664031871" duration="11905000" />
+      <workItem from="1649067689407" duration="3417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
