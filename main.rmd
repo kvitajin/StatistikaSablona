@@ -13,42 +13,41 @@ header-includes: \usepackage[makeroom]{cancel, colortbl}
 
 ```{=latex}
 \begin{center}
-\begin{tabular}{| p{.5\textwidth} | p{.5\textwidth}|}
-\hline
-Jméno studentky/studenta:& \\
-\hline
-Osobní číslo: & \\
-\hline
-Jméno cvičící/cvičícího: & \\
-\hline
-\end{tabular}
+	\begin{tabular}{| p{.5\textwidth} | p{.5\textwidth}|}
+		\hline
+		Jméno studentky/studenta:      &   \\
+		\hline
+		Osobní číslo:                &   \\
+		\hline
+		Jméno cvičící/cvičícího: &   \\
+		\hline
+	\end{tabular}
 \end{center}
 ```
 
-
-
 ```{=latex}
 \begin{center}
-\begin{tabular}{|p{.33\textwidth}|p{.33\textwidth}|p{.33\textwidth}|}
-\hline
-&Datum odevzdání&Hodnocení\\
-\hline
-Domácí úkol 1: & & \\
-\hline
-Domácí úkol 2: & & \\
-\hline
-Domácí úkol 3: & & \\
-\hline
-Domácí úkol 4: & & \\
-\hline
-Celkem: & ----- &\\
-\hline
-\end{tabular}
+	\begin{tabular}{|p{.33\textwidth}|p{.33\textwidth}|p{.33\textwidth}|}
+		\hline
+		                  & Datum odevzdání & Hodnocení \\
+		\hline
+		Domácí úkol 1: &                   &            \\
+		\hline
+		Domácí úkol 2: &                   &            \\
+		\hline
+		Domácí úkol 3: &                   &            \\
+		\hline
+		Domácí úkol 4: &                   &            \\
+		\hline
+		Celkem:           & -----             &            \\
+		\hline
+	\end{tabular}
 \end{center}
 ```
+
 ```{=latex}
 \begin{center}
-\textbf{Ostrava, AR 2021/2022}
+	\textbf{Ostrava, AR 2021/2022}
 \end{center}
 ````
 
@@ -80,52 +79,49 @@ Obecné pokyny:
 
 Výsledky popisné statistiky lze vidět v Tab.  1 a na …...
 
-Tab.  1: Pokles světelného toku po 30 sekundách od zapnutí při snížení okolní teploty z 22°C na 5°C u zářivek od výrobců Amber a Bright (souhrnné statistiky)
-
-```{=latex}
-\begin{center}
-\begin{tabular}{|l|c|c||c|c|}
-\hline
-& \multicolumn{2}{c||}{\textbf{Původní data}} & \multicolumn{2}{c|}{\textbf{Data po odstranění odlehlých pozorování}} \\
-\hline
-& \textbf{Amber} & \textbf{Bright} & \textbf{Amber} & \textbf{Bright} \\
-\hline
-\hline
-\textbf{rozsah souboru} & & & & \\
-\hline
-\textbf{minimum} & & & & \\
-\hline
-\textbf{dolní kvartil} & & & & \\
-\hline
-\textbf{medián} & & & & \\
-\hline
-\textbf{průměr} & & & & \\
-\hline
-\textbf{horní kvartil} & & & & \\
-\hline
-\textbf{maximum} & & & & \\
-\hline
-\hline
-\textbf{směrodatná odchylka} & & & & \\
-\hline
-\textbf{variační koeficien (\%)} & & & & \\
-\hline
-\hline
-\textbf{šikmost} & & & & \\
-\hline
-\textbf{špičatost} & & & & \\
-\hline
-\hline
-\multicolumn{5}{|l|}{\textbf{Identifikace odlehlých pozorování (vnitřní hradby)}}\\
-\hline
-\hline
-\textbf{dolní mez} & & & \multicolumn{2}{c|}{} \\
-\hline
-\textbf{horní mez} & & & \multicolumn{2}{c|}{} \\
-\hline
-\end{tabular}
-\end{center}
-```
+\begin{table}[h]
+	\begin{tabular}{|l|c|c||c|c|}
+		\hline
+		& \multicolumn{2}{c||}{\textbf{Původní data}} & \multicolumn{2}{c|}{\textbf{Data po odstranění odlehlých pozorování}} \\
+		\hline
+		                                   & \textbf{Amber} & \textbf{Bright} & \textbf{Amber} & \textbf{Bright} \\
+		\hline
+		\hline
+		\textbf{rozsah souboru}            &                &                 &                &                 \\
+		\hline
+		\textbf{minimum}                   &                &                 &                &                 \\
+		\hline
+		\textbf{dolní kvartil}            &                &                 &                &                 \\
+		\hline
+		\textbf{medián}                   &                &                 &                &                 \\
+		\hline
+		\textbf{průměr}                  &                &                 &                &                 \\
+		\hline
+		\textbf{horní kvartil}            &                &                 &                &                 \\
+		\hline
+		\textbf{maximum}                   &                &                 &                &                 \\
+		\hline
+		\hline
+		\textbf{směrodatná odchylka}     &                &                 &                &                 \\
+		\hline
+		\textbf{variační koeficien (\%)} &                &                 &                &                 \\
+		\hline
+		\hline
+		\textbf{šikmost}                  &                &                 &                &                 \\
+		\hline
+		\textbf{špičatost}               &                &                 &                &                 \\
+		\hline
+		\hline
+		\multicolumn{5}{|l|}{\textbf{Identifikace odlehlých pozorování (vnitřní hradby)}}\\
+		\hline
+		\hline
+		\textbf{dolní mez} & & & \multicolumn{2}{c|}{} \\
+		\hline
+		\textbf{horní mez} & & & \multicolumn{2}{c|}{} \\
+		\hline
+	\end{tabular}
+	\caption{Pokles světelného toku po 30 sekundách od zapnutí při snížení okolní teploty z 22°C na 5°C u zářivek od výrobců Amber a Bright (souhrnné statistiky)}
+\end{table}
 \newpage
 ## Grafická prezentace (krabicový graf, histogram, q-q graf):
 
