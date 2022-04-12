@@ -213,13 +213,25 @@ e) Pomocí chí-kvadrát testu nezávislosti rozhodněte, jestli to, že zářiv
 
 \newpage
 
+```{=latex}
+\begin{minipage}{\textwidth}
+```
 ## Jak identifikovat, zda jsou v datech odlehlá pozorování?
+
 ### Emiprické posouzení:
 * použití vnitřních (vnějších) hradeb,
 * vizuální posouzení krabicového grafu.
 Jak naložit s odlehlými hodnotami by měl definovat hlavně zadavatel analýzy (expert na danou problematiku).
 
+```{=latex}
+\end{minipage}
+```
+
+```{=latex}
+\begin{minipage}{\textwidth}
+```
 ## Jak ověřit normalitu dat?
+
 #### Emiprické posouzení:
 * vizuální posouzení histogramu,
 * vizuální posouzení grafu odhadu hustoty pravděpodobnosti,
@@ -229,7 +241,15 @@ Jak naložit s odlehlými hodnotami by měl definovat hlavně zadavatel analýzy
 #### Exaktní posouzení:
 * testy normality (např. Shapirův – Wilkův test, Andersonův-Darlingův test, Lillieforsův test, …)
 
+```{=latex}
+\end{minipage}
+```
+
+```{=latex}
+\begin{minipage}{\textwidth}
+```
 ## Jak ověřit homoskedasticitu (shodu rozptylů)?
+
 #### Emiprické posouzení:
 * poměr největšího a nejmenšího rozptylu,
 * vizuální posouzení krabicového grafu.
@@ -238,3 +258,7 @@ Jak naložit s odlehlými hodnotami by měl definovat hlavně zadavatel analýzy
 * F – test (parametrický dvouvýběrový test),
 * Bartlettův test (parametrický vícevýběrový test),
 * Leveneův test (neparametrický test).
+
+```{=latex}
+\end{minipage}
+```
