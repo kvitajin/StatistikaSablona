@@ -9,6 +9,7 @@ lang: cs
 documentclass: scrreprt
 header-includes: \usepackage[makeroom]{cancel, colortbl}
 ---
+
 ![](img/vsb.png)
 
 ```{=latex}
